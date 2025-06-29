@@ -2,6 +2,12 @@
 
 _Data-driven decisions to cut losses, optimize advertising, and improve return policy._
 
+
+# Table of contents: 
+1. [Read_me](https://github.com/couign/Data_Projects_TripleTen/blob/main/Superstore%20Dashboard/Read-Me_Superstore-Dashboard.md)
+2. [Full Report](https://github.com/couign/Data_Projects_TripleTen/blob/main/Superstore%20Dashboard/Read-Me_Superstore-Dashboard.md)
+
+
 ## 🧾 Overview
 
 This project was completed as part of the TripleTen BIA program. It analyzes key financial challenges at Superstore using Tableau dashboards and offers actionable recommendations.
