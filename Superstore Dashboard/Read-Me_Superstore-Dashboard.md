@@ -50,7 +50,7 @@ The report covers three core areas:
 
 ## 📊 View Dashboards
 
-📌 [Tableau Public Link](https://public.tableau.com/shared/BHRKGQ372?:display_count=n&:origin=viz_share_link)
+📌 [Tableau Public Link]([https://public.tableau.com/shared/BHRKGQ372?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Sprint4_project_CI_2025/part1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
