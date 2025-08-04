@@ -55,6 +55,3 @@ The report covers three core areas:
 ---
 
 _Thanks for reading!_
-```
-
-Would you like me to export this as a downloadable `.md` file for you?
